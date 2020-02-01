@@ -1,1 +1,30 @@
-theme: jekyll-theme-minimal
+name: Gabriel Abner Coppini
+description: Fool Blog 
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+    - jekyll-paginate
+paginate: 15
+baseurl: /
+domain_name: 'http://gcoppini.github.com'
+google_analytics: 'UA-XXX'
+
+# Details for the RSS feed generator
+url: 'http://gcoppini.github.com'
+
+author:
+    name: Gabriel Abner Coppini
+    thumb: /assets/images/profile.jpg
+    bio: Desenvolvedor tolo
+    url:
+        site: 'http://github.com/gcoppini'
+        facebook: 'https://www.facebook.com/gabriel.coppini.3'
+        twitter: 'https://twitter.com/coppinigabriel'
+        linkedin: 'http://br.linkedin.com/in/gabrielcoppini'
+        email: 'gabriel.coppini@gmail.com'
+
+urls:
+    about: /sobre
+
+img_path: /assets/images/
