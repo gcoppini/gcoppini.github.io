@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Gabriel Abner Coppini -- Dev -- @coppinigabriel
+
+# THANKS
+
+    All open-source guys, github especially
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Jekyl, Githubpages
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
