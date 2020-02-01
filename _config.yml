@@ -1,5 +1,5 @@
 name: Gabriel Abner Coppini
-description: Fool Blog 
+description: Desenvolvedor  
 
 markdown: kramdown
 highlighter: rouge
@@ -18,11 +18,13 @@ author:
     thumb: /assets/images/profile.jpg
     bio: Desenvolvedor tolo
     url:
-        site: 'http://github.com/gcoppini'
+        site: 'http://gcoppini.github.io'
+        github: 'https://github.com/gcoppini'
         facebook: 'https://www.facebook.com/gabriel.coppini.3'
         twitter: 'https://twitter.com/coppinigabriel'
-        linkedin: 'http://br.linkedin.com/in/gabrielcoppini'
-        email: 'gabriel.coppini@gmail.com'
+        linkedin: 'https://br.linkedin.com/in/gabrielcoppini'
+        stackoverflow: 'https://stackoverflow.com/users/2150415/user2150415'
+        email: 'gabriel.coppini(at)gmail.com'
 
 urls:
     about: /sobre
