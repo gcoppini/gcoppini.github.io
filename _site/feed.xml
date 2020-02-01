@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>Desenvolvedor</description>
-    <link>http://gcoppini.github.com//</link>
-    <atom:link href="http://gcoppini.github.com//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Feb 2020 14:43:05 -0300</pubDate>
-    <lastBuildDate>Sat, 01 Feb 2020 14:43:05 -0300</lastBuildDate>
+    <link>https://gcoppini.github.com//</link>
+    <atom:link href="https://gcoppini.github.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 01 Feb 2020 14:48:09 -0300</pubDate>
+    <lastBuildDate>Sat, 01 Feb 2020 14:48:09 -0300</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -30,8 +30,8 @@ To add new posts, simply add a file in the &lt;code class=&quot;highlighter-roug
 
 </description>
         <pubDate>Mon, 27 Jan 2020 07:18:00 -0300</pubDate>
-        <link>http://gcoppini.github.com//thriller/comedy/horror/2020/01/27/teste-post.html</link>
-        <guid isPermaLink="true">http://gcoppini.github.com//thriller/comedy/horror/2020/01/27/teste-post.html</guid>
+        <link>https://gcoppini.github.com//thriller/comedy/horror/2020/01/27/teste-post.html</link>
+        <guid isPermaLink="true">https://gcoppini.github.com//thriller/comedy/horror/2020/01/27/teste-post.html</guid>
         
         
         <category>Thriller</category>
@@ -59,8 +59,8 @@ To add new posts, simply add a file in the &lt;code class=&quot;highlighter-roug
 
 </description>
         <pubDate>Sun, 10 Nov 2013 08:18:00 -0200</pubDate>
-        <link>http://gcoppini.github.com//thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://gcoppini.github.com//thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</guid>
+        <link>https://gcoppini.github.com//thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://gcoppini.github.com//thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</guid>
         
         
         <category>Thriller</category>

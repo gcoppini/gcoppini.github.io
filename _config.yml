@@ -7,18 +7,18 @@ plugins:
     - jekyll-paginate
 paginate: 15
 baseurl: /
-domain_name: 'http://gcoppini.github.com'
+domain_name: 'https://gcoppini.github.com'
 google_analytics: 'UA-135160919-1'
 
 # Details for the RSS feed generator
-url: 'http://gcoppini.github.com'
+url: 'https://gcoppini.github.com'
 
 author:
     name: Gabriel Abner Coppini
     thumb: /assets/images/profile.jpg
     bio: Desenvolvedor tolo
     url:
-        site: 'http://gcoppini.github.io'
+        site: 'https://gcoppini.github.io'
         github: 'https://github.com/gcoppini'
         facebook: 'https://www.facebook.com/gabriel.coppini.3'
         twitter: 'https://twitter.com/coppinigabriel'
